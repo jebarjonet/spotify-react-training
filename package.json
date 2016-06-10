@@ -4,6 +4,11 @@
   "scripts": {
     "serve": "nodemon server/server.js --ignore components"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jebarjonet/spotify-react-training.git"
+  },
+  "author": "Jean-Elie Barjonet",
   "dependencies": {
     "express": "^4.13.4",
     "jquery": "^3.0.0",
