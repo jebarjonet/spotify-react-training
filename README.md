@@ -8,4 +8,4 @@ Gets 10 tracks from Spotify API with track name or artist's name containing *hig
 
 Run `npm run serve` to run the NodeJS server and enable webpack hot reload.
 
-![preview](https://cloud.githubusercontent.com/assets/4401230/15967089/5c30d5ba-2f26-11e6-8e86-898c2c094697.PNG)
+![spotify](https://cloud.githubusercontent.com/assets/4401230/16897484/49a69c64-4bb3-11e6-9856-5982461e1cca.png)
