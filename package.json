@@ -1,12 +1,12 @@
 {
-  "name": "spotify-react-training",
+  "name": "react-training-spotify",
   "version": "1.0.0",
   "scripts": {
     "serve": "nodemon server/server.js --ignore components"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jebarjonet/spotify-react-training.git"
+    "url": "https://github.com/jebarjonet/react-training-spotify.git"
   },
   "author": "Jean-Elie Barjonet",
   "dependencies": {
