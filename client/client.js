@@ -2,7 +2,7 @@ import React from "react";
 import {render} from "react-dom";
 import {Feed} from "../components/Feed";
 
-import "./main.less";
+require("./main.less");
 
 const params = {
     q: "hight",
