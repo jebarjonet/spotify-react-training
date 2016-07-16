@@ -1,4 +1,4 @@
-# Spotify/React training
+# React training : Spotify
 
 Quick training to get me into React again using **React 15.1**, **Webpack** (with hot reload module) and **NodeJS + Express** which is simply serving the html index.
 
